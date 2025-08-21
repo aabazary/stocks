@@ -1,0 +1,444 @@
+{
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm Incorporated",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems Inc.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corp.",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corp.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs Group Inc.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "BRK.A",
+      "name": "Berkshire Hathaway Inc.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc.",
+      "sector": "Financial"
+    },
+    {
+      "symbol": "HD",
+      "name": "The Home Depot Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "LOW",
+      "name": "Lowe's Companies Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "DIS",
+      "name": "The Walt Disney Company",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "NKE",
+      "name": "NIKE Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "COTY",
+      "name": "Coty Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo Inc.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Co.",
+      "sector": "Consumer"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc.",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co. Inc.",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "DHR",
+      "name": "Danaher Corporation",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "EOG",
+      "name": "EOG Resources Inc.",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "BA",
+      "name": "The Boeing Company",
+      "sector": "Industrial"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "sector": "Industrial"
+    },
+    {
+      "symbol": "GE",
+      "name": "General Electric Company",
+      "sector": "Industrial"
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "sector": "Industrial"
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "sector": "Industrial"
+    },
+    {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "T",
+      "name": "AT&T Inc.",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "TMUS",
+      "name": "T-Mobile US Inc.",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "CHTR",
+      "name": "Charter Communications Inc.",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "PARA",
+      "name": "Paramount Global",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "FOX",
+      "name": "Fox Corporation",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "NWSA",
+      "name": "News Corporation",
+      "sector": "Communication"
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service Inc.",
+      "sector": "Transportation"
+    },
+    {
+      "symbol": "FDX",
+      "name": "FedEx Corporation",
+      "sector": "Transportation"
+    },
+    {
+      "symbol": "UAL",
+      "name": "United Airlines Holdings Inc.",
+      "sector": "Transportation"
+    },
+    {
+      "symbol": "LUV",
+      "name": "Southwest Airlines Co.",
+      "sector": "Transportation"
+    },
+    {
+      "symbol": "SPG",
+      "name": "Simon Property Group Inc.",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "PLD",
+      "name": "Prologis Inc.",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "DUK",
+      "name": "Duke Energy Corporation",
+      "sector": "Utilities"
+    },
+    {
+      "symbol": "SO",
+      "name": "The Southern Company",
+      "sector": "Utilities"
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy Inc.",
+      "sector": "Utilities"
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "VTI",
+      "name": "Vanguard Total Stock Market ETF",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "ARKK",
+      "name": "ARK Innovation ETF",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "GLD",
+      "name": "SPDR Gold Trust",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "SLV",
+      "name": "iShares Silver Trust",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "sector": "ETF"
+    },
+    {
+      "symbol": "VNQ",
+      "name": "Vanguard Real Estate ETF",
+      "sector": "ETF"
+    }
+  ]
+}
